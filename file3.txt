@@ -1,0 +1,4 @@
+dog
+mv
+CP
+comm

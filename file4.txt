@@ -1,0 +1,4 @@
+DOG
+cp
+diff
+comm

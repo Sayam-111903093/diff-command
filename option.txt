@@ -1,0 +1,17 @@
+
+diff : compare files line by line
+
+[Options]
+1) -y : output in two columns
+
+2) -c : output lines in context mode
+
+3) -w : ignore all white space
+
+4) -b : ignore changes in the amount of white space
+
+5) -i : ignore case differences in file contents
+
+6) -u : output lines in unified mode
+
+
